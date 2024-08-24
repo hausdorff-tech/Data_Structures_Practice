@@ -1,0 +1,12 @@
+{
+  "name": "vanillajs",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Practice of raw Javascript code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Valerie Tuckler",
+  "license": "ISC"
+}
